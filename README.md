@@ -29,11 +29,11 @@ Hi 👋, I Am Midhun
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [Ysmidhun](https://Ysmidhun)
+- 👨‍💻 All of my projects are available at [Dzmidhun](https://Dzmidhun)
 
 - 💬 Ask me about **open source, web development, and community management**
 
-- 📫 Reach me out at **contact@Ysmidhun**
+- 📫 Reach me out at **contact@Dzmidhun**
 
 </details>
   
